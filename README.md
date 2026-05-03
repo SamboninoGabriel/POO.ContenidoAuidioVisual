@@ -1,8 +1,7 @@
 Contenido Audiovisual
 
 Estudiante: Gabriel Sambonino
-Carrera: Ingeniería de Software
-Asignatura: Programación Orientada a Objetos
+Programación Orientada a Objetos
 
 
 
